@@ -19,3 +19,6 @@
 <h2>Table required for storing makrs</h2>
 
 ![alt text](https://github.com/Akshay-ST/quiz/blob/master/table-marks.jpg?raw=true)
+
+
+<p> There are two files namely quiz.py and quizPackage.py As the name suggest all the methods are defined in quizPackage.py and the main caller function in is quiz.py </p>

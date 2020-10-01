@@ -16,7 +16,7 @@
 
 ![alt text](https://github.com/Akshay-ST/quiz/blob/master/table-tech.jpg?raw=true)
 
-<h2>Table required for storing makrs</h2>
+<h2>Table required for storing marks</h2>
 
 ![alt text](https://github.com/Akshay-ST/quiz/blob/master/table-marks.jpg?raw=true)
 
